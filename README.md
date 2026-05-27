@@ -2,7 +2,7 @@
 
 Este repositório contém o "motor" de processamento e orquestração do projeto **Emenda Insight IA**. Ele é o microsserviço backend responsável por conectar o front-end, o repositório de dados fatiados (Data Lake no OneDrive) e a API do Google Gemini, rodando sob severas restrições de infraestrutura em nuvem.
 
-👉 **Veja a Interface de Usuário (Front-end) aqui:** [Repositório 01 - Front-end Lovable]([LINK_PARA_O_SEU_REPOSITORIO_01_AQUI](https://github.com/CarloGiacomoni/01-emenda-insight-ia-Lovable)
+👉 **Veja a Interface de Usuário (Front-end) aqui:** [Repositório 01 - Front-end Lovable](https://github.com/CarloGiacomoni/01-emenda-insight-ia-Lovable)
 
 ## 🏗️ Visão Geral da Arquitetura (n8n)
 
